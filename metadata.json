@@ -1,0 +1,8 @@
+{
+  "name": "Workspace Toggle or Last",
+  "description": "Switch to configured workspace and back to the previous one with single hotkey",
+  "uuid": "workspacetoprevious@fc5.me",
+  "shell-version": [
+    "3.38"
+  ]
+}
